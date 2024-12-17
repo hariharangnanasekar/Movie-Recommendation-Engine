@@ -49,5 +49,4 @@ An interactive movie recommendation system built using Python. The project allow
 
 1. **Clone the Repository**:
    
-   git clone https://github.com/hariharangnanasekar/movie-recommendation-engine.git
-   cd movie-recommendation-system
+   git clone https://github.com/hariharangnanasekar/movie-recommendation-engine.git cd movie-recommendation-engine
