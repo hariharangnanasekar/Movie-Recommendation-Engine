@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+# 🎬 Movie Recommendation Engine
 
 An interactive movie recommendation system built using Python. The project allows users to search for movies by title and receive tailored recommendations based on similarity and user preferences.
 
